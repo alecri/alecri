@@ -1,0 +1,12 @@
+Package: alecri
+Type: Package
+Title: Several Useful Functions: a miscellaneous R package
+Version: 0.0.1
+Date: 2016-10-15
+Author: Alessio Crippa
+Maintainer: Alessio Crippa <alessio.crippa@ki.se>
+Description: It consists of a collection of functions that may be useful in everyday life.
+License: GPL-2
+Depends:
+    tidyverse
+RoxygenNote: 5.0.1
